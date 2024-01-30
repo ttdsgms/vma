@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Aplica um tema personalizado substituindo as imagens do Codenames no servidor da VMA.
 // @author       Tiago (TTdsgms)
-// @match        https://www.codenames.game/*   // Coloque aqui o URL do site do Codenames no servidor da VMA
+// @match        https://www.codenames.game/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ttdsgms.netlify.app
 // @grant        none
 // ==/UserScript==
